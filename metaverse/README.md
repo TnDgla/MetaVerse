@@ -2,6 +2,12 @@
 
 This is an official starter Turborepo.
 
+## Data Flow Diagram
+
+Below is the data flow diagram for the application, illustrating the relationships between different models in the database:
+
+![DB design](https://github.com/user-attachments/assets/f9bb67ea-a7f4-4a5a-a4f1-e7ddda5e3110)
+
 ## Using this example
 
 Run the following command:
