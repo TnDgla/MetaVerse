@@ -138,10 +138,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Implement a WebSocket server using Socket.IO.
      - **Reading:** [Socket.IO Docs](https://socket.io/docs/v4/)
-     - **Video:** [Real-Time Apps with Socket.IO](https://www.youtube.com/watch?v=O6JcOfhHz8k)
+     - **Video:** [Real-Time Apps with Socket.IO](https://www.youtube.com/watch?v=UUddpbgPEJM&t=906s)
   2. Enable real-time user movements and space interactions.
      - **Reading:** [Phaser.js Game Loop](https://phaser.io/tutorials/making-your-first-phaser-3-game/part3)
-     - **Video:** [Phaser.js Real-Time Guide](https://www.youtube.com/watch?v=K1nPd4ZibVc)
+     - **Video:** [Phaser.js Real-Time Guide](https://www.youtube.com/watch?v=0qtg-9M3peI&t=4s)
 
 - **Deliverables:**
   - Real-time interaction between users in virtual spaces.
