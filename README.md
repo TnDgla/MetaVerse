@@ -108,7 +108,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [React.js Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
   2. Design basic layouts for user dashboard and space navigation.
      - **Reading:** [Phaser.js Documentation](https://phaser.io/)
-     - **Video:** [Phaser.js Setup Guide](https://www.youtube.com/watch?v=2Rj8rymg3yo)
+     - **Video:** [Phaser.js Setup Guide](https://www.youtube.com/watch?v=0qtg-9M3peI)
 
 - **Deliverables:**
   - Basic UI with placeholders for virtual spaces and avatar customization.
