@@ -1,6 +1,6 @@
 ---
 # Project Name: Metaverse Application
-**Metaverse Application** is a 2D multiplayer environment built using the MERN stack, WebSockets, and microservices. This project enables users to interact in virtual spaces, manage avatars, and collaborate in shared environments, focusing on scalable and efficient real-time communication.
+Metaverse Application is a 2D multiplayer environment built using the MERN stack, WebSockets, and microservices. This project enables users to interact in virtual spaces, manage avatars, and collaborate in shared environments, focusing on scalable and efficient real-time communication.
 
 ---
 
